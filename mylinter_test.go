@@ -3,8 +3,8 @@ package mylinter_test
 import (
 	"testing"
 
-	"example.com/mylinter"
 	"github.com/gostaticanalysis/testutil"
+	"github.com/k3forx/mylinter"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example.com/mylinter"
+	"github.com/k3forx/mylinter"
 	"golang.org/x/tools/go/analysis/unitchecker"
 )
 
